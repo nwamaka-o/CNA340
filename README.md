@@ -29,7 +29,7 @@ python main.py
 Add any additional ways to run the program below
 
 ```
-python cne_demo.py test.txt
+python main.py test.txt
 ```
 
 ## Thanks
