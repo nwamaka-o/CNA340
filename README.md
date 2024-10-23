@@ -1,14 +1,17 @@
-# Project Title
+# Row, Row, Row Your Boat Project
 
-One Paragraph of project description goes here.
+This project implements a playful version of the classic children's song "Row, Row, Row Your Boat" using Python functions. It features multiple verses, each with unique lyrics, allowing for a fun and interactive experience.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will help you set up and run the program on your local machine for development or experimentation.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+This project requires Python 3 to run. Make sure you have the following installed:
+
+    Python 3.x
+The commands below will install the prerequisites
 
 ```
 sudo apt update
@@ -19,11 +22,8 @@ sudo apt install python3
 ## Running
 Once installed you can run the program with the following command
 
-## Main Program
-Added main.py to source file
-
 ```
-python cne_demo.py
+python main.py
 ```
 
 Add any additional ways to run the program below
@@ -33,4 +33,4 @@ python cne_demo.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Special thanks to the instructor for their contributions to educational programming resources which has made it possible for me to follow smoothly. 
