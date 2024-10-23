@@ -19,6 +19,9 @@ sudo apt install python3
 ## Running
 Once installed you can run the program with the following command
 
+## Main Program
+Added main.py to source file
+
 ```
 python cne_demo.py
 ```
